@@ -1,0 +1,22 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-size: 1.3rem;
+}
+.body {
+  font-family: fantasy;
+}
+ul li {
+  list-style-type: none;
+}
+ul li a {
+  text-decoration: none;
+  text-transform: capitalize;
+  letter-spacing: 2px;
+  background: black;
+  color: aquamarine;
+  display: block;
+  padding: 20px 20px;
+  margin: 20px;
+}
